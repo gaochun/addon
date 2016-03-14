@@ -1,8 +1,8 @@
-{  
-  "targets": [  
-    {  
-      "target_name": "mq",  
-      "sources": [ "adapter.cc" ]  
-    }  
-  ]  
-} 
+{
+  "targets": [
+    {
+      "target_name": "webgl",
+      "sources": [ "addon.cc" ],
+    }
+  ]
+}
